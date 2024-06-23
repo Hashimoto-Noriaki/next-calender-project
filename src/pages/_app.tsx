@@ -1,5 +1,6 @@
 import '../styles/destyle.css';
 import '../styles/index.css';
+import "./styles/output.css";
 import type { AppProps } from 'next/app';
 
 function MyApp({ Component, pageProps }: AppProps) {
