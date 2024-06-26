@@ -12,8 +12,8 @@ export const NotLoginLayout = ({ children }: PropsType) => {
           <p className="logo">スケジュール管理APP</p>
           <nav>
             <ul className="flex gap-5 text-lime-800">
-            <li>ご利用方法</li>
-            <li>ログイン</li>
+              <li>ご利用方法</li>
+              <li>ログイン</li>
             </ul>
           </nav>
         </div>
